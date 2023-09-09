@@ -1,2 +1,2 @@
 # iPay Payment Gateway Integration With Django
-Interacting with iPay API
+Interacting with iPay Web Based API
